@@ -1,0 +1,106 @@
+body {
+  background-image: url(https://1.bp.blogspot.com/-jOLaXj_acXI/X9yhxMkgPSI/AAAAAAAAAug/nYGUZGxhrbExaX1Zkzb8DOrb7AFpm8XfgCPcBGAYYCw/s1920/PUBG%2BHD%2BWallpaper%2B-%2BPUBG%2B4k%2BWallpapers%2B%2528165%2529.jpg);
+}
+p {
+   color: #8f8f8f;
+   /* containers */
+ }
+ .container-fluid{
+   padding: 7% 15%;
+ }
+
+/* headings */
+.big-heading {
+  color: #fff;
+  font-family: 'Alfa Slab One';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 70%;
+}
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.big-headings {
+  color: #FBF8F1;
+font-family: 'Fredoka One', cursive;
+    padding-bottom: 40%;
+font-size: 4rem;
+line-height: 1.5;
+}
+/* section */
+
+.white-section{
+background-color: #fff;
+}
+
+/* nav bar */
+
+.navbar {
+  font-family: 'Alfa Slab One';
+font-size: 1.3rem;
+}
+
+/* title image */
+#title .container-fluid {
+   padding: 0% 15% 7%;
+    text-align: left;
+}
+.title-image {
+  width: 70%;
+  position: absolute;
+  z-index: 1;
+  padding-top: 10%;
+    }
+
+/* download button */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* features section */
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-img {
+  width: 100%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.btn {
+margin-top: 50%;
+}
+/* pricing section */
+
+#pricing {
+  background-color: #112031;
+  text-align: center;
+  padding: 1.5%;
+}
+.pricing-text {
+
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.pricing-column {
+  padding: 4%;
+  text-align: center;
+}
+.section-heading {
+  color: #fff;
+    font-family: 'Alfa Slab One';
+}
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
